@@ -1,0 +1,16 @@
+【2022-04-16 11:24:41 474】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-16 11:26:34 463】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-16 14:59:35 569】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-16 15:16:31 093】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156

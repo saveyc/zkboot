@@ -1,0 +1,44 @@
+【2022-04-13 17:12:36 748】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-13 17:13:29 853】SendBroadCast：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.SendBroadCast(Int32 localPort, Int32 remotePort, String ip) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 116
+【2022-04-13 17:13:32 577】SendBroadCast：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.SendBroadCast(Int32 localPort, Int32 remotePort, String ip) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 116
+【2022-04-13 17:14:10 187】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-13 17:14:21 092】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-13 17:29:06 658】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-13 17:30:00 108】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-13 17:31:35 823】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-13 18:29:21 246】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-13 18:31:06 646】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-13 18:32:22 139】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156
+【2022-04-13 18:33:37 244】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156

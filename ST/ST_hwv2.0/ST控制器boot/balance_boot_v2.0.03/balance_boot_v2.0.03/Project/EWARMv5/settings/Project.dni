@@ -1,0 +1,146 @@
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[DebugChecksum]
+Checksum=-762297348
+[SWOTraceHWSettings]
+CpuClock=72000000
+ClockAutoDetect=0
+ClockWanted=2000000
+JtagSpeed=2000000
+Prescaler=36
+TimeStampPrescIndex=0
+TimeStampPrescData=0
+PcSampCYCTAP=1
+PcSampPOSTCNT=15
+PcSampIndex=0
+DataLogMode=0
+ITMportsEnable=0
+ITMportsTermIO=0
+ITMportsLogFile=0
+ITMlogFile=$PROJ_DIR$\ITM.log
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[JLinkDriver]
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[PowerLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=0
+Title0=Power [mA]
+Setup0=0 1 0 500 2 0 4 1 0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[SWOTraceWindow]
+PcSampling=0
+InterruptLogs=0
+ForcedTimeStamps=0
+EventCPI=0
+EventEXC=0
+EventFOLD=0
+EventLSU=0
+EventSLEEP=0
+[TraceHelperExtra]
+Enabled=0
+ShowSource=1
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=3
+Graph=0
+Symbiont=0
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Bp0=_ "STD_CODE" "{E:\Balance\Board_2\boot\balance_boot_v2.0.01\Project\src\fun.c}.227.9@1" 0 0 0 0 "" 0 "" 0
+Bp1=_ "STD_CODE" "{E:\Balance\Board_2\boot\balance_boot_v2.0.01\Project\src\fun.c}.240.5@1" 0 0 0 0 "" 0 "" 0
+Bp2=_ "STD_CODE" "{$PROJ_DIR$}.170.9@1" 0 0 0 0 "" 0 "" 0
+Count=3
+[Aliases]
+A0=_ "C:\Users\CUI\Desktop\°ÚÂÖ\balancewheel_4pwm_v1.0.19\boot_v1.0.01\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A1=_ "C:\Users\CUI\Desktop\°ÚÂÖ\balancewheel_4pwm_v1.0.19\boot_v1.0.01\Project\src\main.c" ""
+A2=_ "C:\Users\CUI\Desktop\°ÚÂÖ\boot_v1.0.01\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A3=_ "C:\Users\CUI\Desktop\°ÚÂÖ\boot_v1.0.01\Project\src\main.c" ""
+A4=_ "E:\Balance\Board_2\boot\balance_boot_v2.0.02\Libraries\STM32F2x7_ETH_Driver\src\stm32f2x7_eth.c" ""
+A5=_ "E:\Balance\Board_2\boot\balance_boot_v2.0.02\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A6=_ "E:\Balance\Board_2\boot\balance_boot_v2.0.02\Project\src\main.c" ""
+A7=_ "E:\Balance\Board_2\boot\balance_boot_v2.0.02\Project\src\tftpserver.c" ""
+A8=_ "E:\Balance\Board_V2\boot\balance_boot_v2.0.01\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A9=_ "E:\Balance\boot\balance_boot_v1.0.01\Libraries\STM32F2x7_ETH_Driver\src\stm32f2x7_eth.c" ""
+A10=_ "E:\Balance\boot\balance_boot_v1.0.01\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A11=_ "E:\Balance\boot\balance_boot_v2.0.01\Project\src\can_bus.c" ""
+A12=_ "E:\Balance\boot\balance_boot_v2.0.01\Project\src\main.c" ""
+A13=_ "E:\Balance\boot\boot_v1.0.01\Libraries\STM32F2x7_ETH_Driver\src\stm32f2x7_eth.c" ""
+A14=_ "E:\Balance\boot\boot_v1.0.01\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A15=_ "E:\Balance\boot\boot_v1.0.01\Project\src\main.c" ""
+A16=_ "E:\°ÚÂÖ\balancewheel_4pwm_v1.0.19\boot_v1.0.01\Libraries\STM32F2x7_ETH_Driver\src\stm32f2x7_eth.c" ""
+A17=_ "E:\°ÚÂÖ\balancewheel_4pwm_v1.0.19\boot_v1.0.01\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A18=_ "E:\°ÚÂÖ\balancewheel_4pwm_v1.0.19\boot_v1.0.01\Project\src\can_bus.c" ""
+A19=_ "E:\°ÚÂÖ\balancewheel_4pwm_v1.0.19\boot_v1.0.01\Project\src\main.c" ""
+A20=_ "E:\°ÚÂÖ\balancewheel_4pwm_v1.0.19\boot_v1.0.01\Project\src\tftpserver.c" ""
+A21=_ "E:\°ÚÂÖ\boot\boot_v1.0.01\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A22=_ "E:\°ÚÂÖ\boot\boot_v1.0.01\Project\src\main.c" ""
+A23=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Libraries\STM32F2x7_ETH_Driver\src\stm32f2x7_eth.c" ""
+A24=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A25=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Project\src\main.c" ""
+A26=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Project\src\tftpserver.c" ""
+A27=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_PROJECT_V2_1_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A28=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_PROJECT_V2_1_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_2\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A29=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_PROJECT_V2_1_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_2\Project\src\main.c" ""
+A30=_ "H:\balancewheelbanckup\balancewheel_4pwm_v2.1.10\boot\Libraries\CMSIS\CM3\CoreSupport\core_cm3.c" ""
+A31=_ "H:\balancewheelbanckup\balancewheel_4pwm_v2.1.10\boot\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A32=_ "H:\balancewheelbanckup\balancewheel_4pwm_v2.1.10\boot\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_rtc.c" ""
+A33=_ "H:\balancewheelbanckup\balancewheel_4pwm_v2.1.10\boot\Libraries\lwip_v1.3.2\port\STM32F2x7\Standalone\ethernetif.c" ""
+A34=_ "H:\balancewheelbanckup\balancewheel_4pwm_v2.1.10\boot\Project\src\main.c" ""
+A35=_ "H:\balancewheelbanckup\balancewheel_4pwm_v2.1.10\boot\Project\src\netconf.c" ""
+Count=36
+SuppressDialog=0

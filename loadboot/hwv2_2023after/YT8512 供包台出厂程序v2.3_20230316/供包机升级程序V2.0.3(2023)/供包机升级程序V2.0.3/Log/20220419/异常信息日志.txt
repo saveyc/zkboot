@@ -1,0 +1,4 @@
+【2022-04-19 15:32:33 075】ReceiveDataThSystem.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   在 System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, EndPoint& remoteEP)
+   在 SoftUpgrade_SupplyPlatform.BroadcastMessage.ReceiveDataTh(Object obj) 位置 F:\Work-Wayzim\SoftUpgrade_SupplyPlatform\SoftUpgrade_SupplyPlatform V1.0.5\SoftUpgrade_SupplyPlatform\1.Code\SoftUpgrade_SupplyPlatform\BroadcastMessage.cs:行号 156

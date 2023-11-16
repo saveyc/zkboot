@@ -1,0 +1,113 @@
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[DebugChecksum]
+Checksum=-1930659677
+[SWOTraceHWSettings]
+CpuClock=72000000
+ClockAutoDetect=0
+ClockWanted=2000000
+JtagSpeed=2000000
+Prescaler=36
+TimeStampPrescIndex=0
+TimeStampPrescData=0
+PcSampCYCTAP=1
+PcSampPOSTCNT=15
+PcSampIndex=0
+DataLogMode=0
+ITMportsEnable=0
+ITMportsTermIO=0
+ITMportsLogFile=0
+ITMlogFile=$PROJ_DIR$\ITM.log
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[PowerLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=0
+Title0=Power [mA]
+Setup0=0 1 0 500 2 0 4 1 0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[SWOTraceWindow]
+PcSampling=0
+InterruptLogs=0
+ForcedTimeStamps=0
+EventCPI=0
+EventEXC=0
+EventFOLD=0
+EventLSU=0
+EventSLEEP=0
+[TraceHelperExtra]
+Enabled=0
+ShowSource=1
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=3
+Graph=0
+Symbiont=0
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "E:\ProjectIAR\A摆轮项目\大件摆轮V1_0_0Momidy\DJBL_V1.0_Modify\EXP_LARGE_PACK_ETH_BOOT_V1_0_0\Project\src\main.c" ""
+A1=_ "E:\ProjectIAR\A摆轮项目\大件摆轮V_1_0MODIFY\DJBL_V1.0_Modify\EXP_LARGE_PACK_ETH_BOOT_V1_0_0\Project\src\main.c" ""
+A2=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V1_0\EXP_LARGE_PACK_ETH_BOOT_V1_0_0\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A3=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Libraries\STM32F2x7_ETH_Driver\src\stm32f2x7_eth.c" ""
+A4=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A5=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Project\src\main.c" ""
+A6=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Project\src\tftpserver.c" ""
+A7=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_PROJECT_V2_1_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_1\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A8=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_PROJECT_V2_1_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_2\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c" ""
+A9=_ "F:\Express\EXP_LARGE_PACK_PROJECT_V2_1\EXP_LARGE_PACK_PROJECT_V2_1_1\EXP_LARGE_PACK_ETH_BOOT_V2_1_2\Project\src\main.c" ""
+Count=10
+SuppressDialog=0
